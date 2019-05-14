@@ -37,4 +37,4 @@
 ### 最后
 > [GitHub](https://github.com/Davisjy/My_Flutter_Study/tree/master)上一个入门demo，一个仿写的开源项目，可自行查看。
 > 
-> 总结一个现象，为什么掘金上Flutter大佬大都是Android开发，特别是入门的时候有些博主都是类比安卓中某某，我一个iOS开发略显孤单。入门Flutter两个星期了，新鲜感十足，希望整个社区越来越好。最后感谢开源精神。
+> 总结一个现象，为什么掘金上Flutter大佬大都是Android开发，特别是入门的时候有些博主都是类比安卓中某某，我一个iOS开发略显孤单。入门Flutter两个星期了，新鲜感十足，希望整个社区越来越好。最后感谢开源精神。
