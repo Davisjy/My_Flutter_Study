@@ -7,7 +7,7 @@
 > 
 > 这个时候发现Dart是新语言，但不要慌。据我了解，掌握JS/Java/Swift/Kotlin这些语言的开发者基本无压力，当然也有个别语法不一样，我也找到[真丶深红骑士](https://juejin.im/user/597247ad5188255aed1fbba6)的[Flutter学习之Dart语法特性](https://juejin.im/post/5c44727df265da611c274087)供大家快速掌握Dart语言。内容太多，可以在需要的时候查阅。
 > 
-> 你以为基础差不多了，就可以撸项目了吗，想太多了(手动黑线)，当我兴致勃勃的找开源项目撸一发的时候发现Bloc，Redux(感觉和Vuex差不多)等等新鲜字眼，懵逼了，紧接着开始学习一系列状态管理。
+> 你以为基础差不多，就可以撸项目了吗，想太多了(手动黑线)，当我兴致勃勃的找开源项目撸一发的时候发现Bloc，Redux(感觉和Vuex差不多)等等新鲜字眼，懵逼了，紧接着开始学习一系列状态管理。
 
 1. [Scoped Model](https://juejin.im/post/5b97fa0d5188255c5546dcf8)
 2. [Redux](https://juejin.im/post/5ba26c086fb9a05ce57697da)
