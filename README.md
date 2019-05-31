@@ -34,6 +34,8 @@
 4. [真丶深红骑士](https://juejin.im/user/597247ad5188255aed1fbba6/posts)带我入门的博客
 5. [ad6623](https://juejin.im/user/569dca187db2a200521046a7/posts)分析的很透彻，膜拜
 
+__重点__ 推荐 [Flutter中文网分析](https://book.flutterchina.club/chapter14/render_object.html)⭐️⭐️⭐️⭐️⭐️
+
 ### 最后
 > [GitHub](https://github.com/Davisjy/My_Flutter_Study/tree/master)上一个入门demo，一个仿写的开源项目，可自行查看。
 > 
